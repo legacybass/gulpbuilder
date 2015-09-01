@@ -1,0 +1,24 @@
+{
+  "name": "Software",
+  "version": "1.0.0",
+  "description": "Root directory for the Software repo",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://ptbuild.acc.msdignition.com/git/Software.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-assemblyinfo": "0.0.4",
+    "gulp-git": "^1.2.4",
+    "gulp-msbuild": "^0.2.13",
+    "gulp-mstest": "^0.1.0",
+    "run-sequence": "^1.1.2",
+    "yargs": "^3.21.0"
+  }
+}
