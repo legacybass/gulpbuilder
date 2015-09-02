@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "GulpBuilder"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-GulpBuilder-0e62100e-cc32-4391-9963-1fcfadccb8de;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
