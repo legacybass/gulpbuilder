@@ -1,14 +1,8 @@
 {
-	// Versioning Defaults
 	"majorVersion": "1",
 	"minorVersion": "00",
 	"revision": "0",
-	
-	// Git Defaults
 	"branch": "develop",
-	
-	// Misc Defaults
-	"companyName": "Powerteq",
 	"buildConfig": "Debug",
 	"buildRevision": "HEAD"
 }

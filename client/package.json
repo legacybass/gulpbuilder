@@ -12,12 +12,13 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "gulp": "^3.9.0",
     "gulp-assemblyinfo": "0.0.4",
     "gulp-git": "^1.2.4",
     "gulp-msbuild": "^0.2.13",
     "gulp-mstest": "^0.1.0",
+    "merge": "^1.2.0",
     "run-sequence": "^1.1.2",
     "yargs": "^3.21.0"
   }
